@@ -1,6 +1,6 @@
 ### About me
 
-Welcome to my github profile! I'm Yousuf Kabbani, a meachtronics engineering graduate working in both embedded engineering and machine learning.
+Welcome to my github profile! I'm Yousuf Kabbani, a mechatronics engineering graduate working in both embedded engineering and machine learning.
 
 My hobbies include 3D printing and electronics design - you'll usually find me working on projects that involve a mix of both. :)
 
